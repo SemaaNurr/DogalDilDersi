@@ -14,7 +14,8 @@ Bu proje, **doğal dil işleme (NLP)** teknikleri kullanılarak metin tabanlı v
 
 ## 📊 Veri Seti Detayları
 
-- **Kaynak:** [Kaggle – Food Recipes Dataset](https://www.kaggle.com/)  
+- **Kaynak:** [Kaggle – Food Recipes Dataset](https://www.kaggle.com/)
+- **Kullanılan Kaynak** https://www.kaggle.com/datasets/semanurkeskin/food-dataset
 - **Boyut:** 37.737 satır, 36.1 MB (CSV formatında)  
 - **Kullanım Amacı:**
   - 📌 Zipf Yasası ile kelime frekanslarını incelemek  
